@@ -27,7 +27,6 @@ services:
 
 volumes:
   mariadb-data: {}
-  couchbase-data: {}
 
 networks:
   app-network:
